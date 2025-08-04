@@ -36,7 +36,11 @@ This Excel-based dashboard is designed to help companies like *Infinity Tech* tr
 - Financial Planning
 - Budget Reviews
 - Vendor Cost Analysis
-- Expense Reporting
+- Expense Reporting 
+
+## Dashboard Screenshort
+![Infinity Tech Expense Tracker Dashboard](https://raw.githubusercontent.com/Bheki0987/Infinity-Tech-Expense-Tracker/main/images/Dashboard-Screenshot.png)
+
 
 ## 🧑‍💼 Author
 **Bheki Mogola**  
