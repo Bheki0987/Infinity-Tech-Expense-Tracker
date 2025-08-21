@@ -1,7 +1,7 @@
 # Infinity Tech Expense Tracker 🧾
 
 ## 📌 Overview
-This Excel-based dashboard is designed to help companies like *Infinity Tech* track and analyze their expenses efficiently. It enables stakeholders to gain insights into expense patterns, vendor reliance, departmental spend, and more—all in a clean, interactive format.
+This Excel-based dashboard is designed to help *Infinity Tech* track and analyze their expenses efficiently. It enables stakeholders to gain insights into expense patterns, vendor reliance, departmental spend, and more—all in a clean, interactive format.
 
 ## 🧠 Features
 - Capital vs Operational Expense Analysis
