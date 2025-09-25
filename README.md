@@ -41,6 +41,42 @@ This Excel-based dashboard is designed to help *Infinity Tech* track and analyze
 ## Dashboard Screenshort
 ![Infinity Tech Expense Tracker Dashboard](https://raw.githubusercontent.com/Bheki0987/Infinity-Tech-Expense-Tracker/main/Dashboard-Screenshot.png)
 
+## Findings
+- Total & Breakdown of Expenses
+  - Total recorded expenses: R1.3M
+  - Split almost evenly between Capital (R646.1K, 49.7%) and Operational (R615.5K, 47.3%) expenditures.
+  - Capital spending slightly exceeds operational, highlighting investment-heavy cost allocation.
+
+- Departmental Insights
+  - Training & Development is the highest-spending department with ~R177K.
+  - Other high spenders include IT Infrastructure (R154K) and Admin & Operations (~R143K).
+  - HR and Marketing have the lowest spend (<R100K), suggesting leaner operations.
+  
+- Vendor Analysis
+  - Expenses are concentrated among a few vendors:
+    - Vendor D: R268.9K (highest).
+    - Vendor E: R261.5K.
+    - Vendor B: R257.1K.
+  - Vendor concentration risk exists since 3 vendors account for over 60% of total vendor expenses.
+
+- Nature of Expenses
+  - Non-Essential expenses (53%) outweigh Essential (47%), raising questions about budget efficiency.
+  - Opportunity exists to optimize discretionary/non-essential spending.
+
+- Quarterly Expense Trends
+  - Q1: R297.7K → gradual increase → Q4: R326.1K.
+  - This indicates steady expense growth, possibly linked to project expansions or inflationary pressures.
+  - Spike in July 2023 (high-expense month) needs further breakdown to identify drivers.
+
+- Purchase Orders (PO) Usage
+  - High PO usage observed (R7.8K – R4.9K range across POs).
+  - Consistent spend pattern suggests controlled procurement, though some larger POs stand out.
+
+## 🔎 Business Implications
+- Cost Optimization: Non-essential spend > essential → tighten control to reallocate funds toward strategic priorities.
+- Vendor Dependency Risk: Heavy reliance on 3 vendors could impact pricing and negotiation leverage.
+- Training & Development Spend: While positive for employee growth, at >13% of total expenses, management must evaluate ROI.
+- Expense Growth: Continuous quarterly increases highlight need for budget forecasting and variance analysis.
 
 ## 🧑‍💼 Author
 **Bheki Mogola**  
